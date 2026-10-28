@@ -18,3 +18,24 @@ Size: 414214
 MD5sum: 0916a9465041dd6ba118c604d65c9dcb
 SHA1: 41ed4fc7aadbedf23da0c809b4892984b3efb7fe
 SHA256: ad18377c4e8d3f07cb1d787bdc60c4ba6c00e7a2d7e646db603879fff91cf0f6
+
+Package: tahtaya-yansit
+Version: 1.7.0
+Architecture: all
+Maintainer: E-Ray <tahtaya-yansit@localhost>
+Installed-Size: 459
+Depends: python3 (>= 3.7), python3-gi, python3-gi-cairo, gir1.2-gtk-3.0, gir1.2-gstreamer-1.0, gir1.2-gst-plugins-base-1.0, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-libav, gstreamer1.0-gtk3, gstreamer1.0-gl, gstreamer1.0-pulseaudio | gstreamer1.0-pipewire
+Recommends: python3-qrcode, gstreamer1.0-vaapi
+Conflicts: pardus-ekran-yansitici
+Replaces: pardus-ekran-yansitici
+Section: video
+Priority: optional
+Description: Android telefon ve tabletlerden tahtaya ekran ve ses yansitma
+ Akilli tahtada arka planda calisir. Android cihazdaki Tahtaya Yansit
+ uygulamasi tahtayi ayni agda bulur; tahtada gosterilen kod girilince
+ telefonun goruntusu ve sesi tahtada oynatilir.
+Filename: ./tahtaya-yansit_1.7.0_all.deb
+Size: 415930
+MD5sum: af46e8fdcde9d17bfb254f00f55475e2
+SHA1: 08b37869eee19b7f88fc87c9566f074545104fb8
+SHA256: dbedbb6c5ea587e879e5839b8a5866d31be0e49f8c1e55f77750ed69c6e33855
