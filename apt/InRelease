@@ -5,30 +5,30 @@ Origin: TahtayaYansit
 Label: Tahtaya Yansit
 Suite: stable
 Codename: stable
-Date: Wed, 28 Oct 2026 16:16:05 GMT
+Date: Wed, 28 Oct 2026 16:43:52 GMT
 Architectures: all
 Description: Tahtaya Yansit guncelleme deposu
 MD5Sum:
- 547e64730f861e0eb282d3e11eb74b98     2113 Packages
- e4516410208d45c0c865f11bf19abf1e      719 Packages.gz
+ d2e0deb0749827dd3c7e129a187d37b6     2154 Packages
+ 0a658d6efa3fc5af9bac602208b0a741      736 Packages.gz
 SHA1:
- 7ae626d25acb151ec36d8adde650e8ffd09aa14f     2113 Packages
- 630016c1bc434200af7c20187fd1150f401f1ab2      719 Packages.gz
+ be3d1f0668a4ab92e5c3ccda7437885421180e7a     2154 Packages
+ 57cb535766c20bfddf1529f1adcba4d2529207dd      736 Packages.gz
 SHA256:
- bd0a19c1377b84fe5b2ba37f4cdb6bf3abeacd41886dfde9d7f78a77c0bca750     2113 Packages
- f1d324e063fffe8929f74787c48536004451eda5e0c38da9fec53cab9e1d8ff6      719 Packages.gz
+ f5954a0e480a0584c403620f6482adb2ecb2530e657e736a5c8905e21426a04a     2154 Packages
+ eabe65e232711d4fcec217b9787d899bfb7e2820536a9ef3065b3d5ea3063df4      736 Packages.gz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEE9ulcMrfDhvaFpyfKtxqkUAYDffMFAmriH8UACgkQtxqkUAYD
-ffMBVwv/YkLhtV2ufSjynOkPitM3ojQlvnOY3PzChIG41tJb5A/K77NAlFcxzc/u
-We2BJOw3xZZpHbCQP6ZOteCx3M10GddWiPEYOcHIwX5d13HE8lsbKa3DFshaMFxq
-Gy8OP2WTS+wuBbxldVahp2aLEgrhVxPUqXl2WqGl82AszF+pnsQDk7kEG7FA8pMM
-+Us6RMrtDgoXtk9+ODSO/lxumx0StliIkm7xGApGPGFuBZyj1QyvDZzEg2v5jJtb
-btczw8vIpYGxTH7HMqwC2hmXBWwVdxw4yJiOgn3fGbrPWJJZR5IrVWP1ChlEVRYG
-tI31frlzmg9Fj9oem0Zlw0nOfWgDlGmMErL0J3wFKi3rWQaPAQi2IcmTMaiQfU9N
-q46c8Ot2Cxlq7etdAuCrYOLC5VvFk1W8SVD4NwyMeMc72QXBOR3ZRkoAgWNcAwxH
-ubJOFgNfnhg5SERJX/ykGIXVtXFVpdSxtby7ivdS59Atwi2Js3tB/n35SNyReb7n
-GR2ghdo2
-=pKnI
+iQGzBAEBCAAdFiEE9ulcMrfDhvaFpyfKtxqkUAYDffMFAmriJkgACgkQtxqkUAYD
+ffNlPwwAqnhEDxx3Z7LQqOBdfp0qySepHIqBEeUFwQp2fjjHPU2yY6UJeDtrw6nP
+78ArzzyWFV5k5suPv7mU1a83iSpBMZrVGt9UQk0/EmtkuD+IPInLXzgwG5tAjG52
+R5AOX4yuD8VmQqJZo4oExZ1aRgARDLvSClmT8ZoBE0qqSLf7OryigamGEXBRaP2q
+WjY4PJetJ9NI+iEGe054IzF/z8B0VYzS2yiYxbVvxbDbFqFzs1TkJQ40MYZfvlGC
+3oLZud8tJaBeHavTTvCVR0TMJV2wamLV6YnsXRAbcngwJ4gJRzuHXkdWRKf0goeP
+v8Our8kQfBZnBtGE5oTcCvtekvhFmKBmEwTBBwSv1+ElAVTHFca2SXgZLt8WzNeX
+L/FngHaxOMEyKvzAveIRPsbzF11C7No9gzuf84yHNWK+8iX92WMOhSz4pj4VrxAC
+RUGvozQjNBt38SIxnwtcKGA2yW3GgiA9D/z/uNIx/zY5Hqg4chNfWd/p2lQN9dfo
+DdscpsXI
+=YISW
 -----END PGP SIGNATURE-----

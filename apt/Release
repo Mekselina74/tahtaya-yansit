@@ -2,15 +2,15 @@ Origin: TahtayaYansit
 Label: Tahtaya Yansit
 Suite: stable
 Codename: stable
-Date: Wed, 28 Oct 2026 16:16:05 GMT
+Date: Wed, 28 Oct 2026 16:43:52 GMT
 Architectures: all
 Description: Tahtaya Yansit guncelleme deposu
 MD5Sum:
- 547e64730f861e0eb282d3e11eb74b98     2113 Packages
- e4516410208d45c0c865f11bf19abf1e      719 Packages.gz
+ d2e0deb0749827dd3c7e129a187d37b6     2154 Packages
+ 0a658d6efa3fc5af9bac602208b0a741      736 Packages.gz
 SHA1:
- 7ae626d25acb151ec36d8adde650e8ffd09aa14f     2113 Packages
- 630016c1bc434200af7c20187fd1150f401f1ab2      719 Packages.gz
+ be3d1f0668a4ab92e5c3ccda7437885421180e7a     2154 Packages
+ 57cb535766c20bfddf1529f1adcba4d2529207dd      736 Packages.gz
 SHA256:
- bd0a19c1377b84fe5b2ba37f4cdb6bf3abeacd41886dfde9d7f78a77c0bca750     2113 Packages
- f1d324e063fffe8929f74787c48536004451eda5e0c38da9fec53cab9e1d8ff6      719 Packages.gz
+ f5954a0e480a0584c403620f6482adb2ecb2530e657e736a5c8905e21426a04a     2154 Packages
+ eabe65e232711d4fcec217b9787d899bfb7e2820536a9ef3065b3d5ea3063df4      736 Packages.gz
